@@ -1,0 +1,800 @@
+<authors><author id="bacon" name="Francis Bacon" shortname="Bacon" dates="1561-1626">    <text title="The New Organon" year="1620" pdf="bacon1620" kb="678">      <text epub="bacon1620" kb="1,401" class="epub_bacon1620"/>      <text mobi="bacon1620" kb="3,404" class="mobi_bacon1620"/>      <text title="Part 1 (Chapters 1-11)" pdf="bacon1620part1" kb="282"/>      <text title="Part 2 (Chapters 12-26)" pdf="bacon1620part2" kb="449"/>    </text>  </author>    
+<author id="bentham" name="Jeremy Bentham" shortname="Bentham" dates="1748-1832">    <text title="A Fragment on Government" year="1776" pdf="bentham1776" kb="409">
+      <text epub="" kb=""/>      
+      <text mobi="" kb=""/>
+       <text second="second" title="An Introduction to the Principles of Morals and Legislation" pdf="bentham1780" kb="827" year="1780"/>     
+      <text epub="bentham1780" kb="805"/>      
+      <text mobi="bentham1780" kb="2,137"/>      
+      <text title="Chapters 1-9" pdf="bentham1780_1" kb="316"/>      
+      <text title="Chapters 10-15" pdf="bentham1780_2" kb="308"/>      
+      <text title="Chapters 16-17" pdf="bentham1780_3" kb="298"/>    
+</text>  
+</author>    
+<author id="berkeley" name="George Berkeley" shortname="Berkeley" dates="1685-1753">    
+      <text title="Essay Towards a New Theory of Vision" year="1709/1733" pdf="berkeley1709" kb="1,455" />      
+      <text epub="berkeley1709" kb="1,708"/>      <text mobi="berkeley1709" kb="3,745"/>    <text title="The Principles of Human Knowledge" year="1710" pdf="berkeley1710" kb="293">      <text epub="berkeley1710" kb="1,005"/>      <text mobi="berkeley1710" kb="2,056"/>      <text title="Introduction" pdf="berkeley1710_1" kb="91"/>      <text title="Sections 1-50" pdf="berkeley1710_2" kb="108"/>      <text title="Sections 51-99" pdf="berkeley1710_3" kb="108"/>      <text title="Sections 100-156" pdf="berkeley1710_4" kb="122"/>    </text>    <text title="Three Dialogues between Hylas and Philonous" year="1713" pdf="berkeley1713" kb="301">      <text epub="berkeley1713" kb="1,007" class="epub_berkeley1713"/>      <text mobi="berkeley1713" kb="2,131" class="mobi_berkeley1713"/>      <text title="First Dialogue" pdf="berkeley1713part1" kb="139"/>      <text title="Second Dialogue" pdf="berkeley1713part2" kb="98"/>      <text title="Third Dialogue" pdf="berkeley1713part3" kb="151"/>    </text>    <text title="Alciphron" year="1732" pdf="berkeley1732" kb="680">      <text epub="berkeley1732" kb="1,118"/>      <text mobi="berkeley1732" kb="2,618"/>      <text title="First and Second Dialogues" pdf="berkeley1732_1" kb="206"/>      <text title="Third and Fourth Dialogues" pdf="berkeley1732_2" kb="203"/>      <text title="Fifth and Sixth Dialogues" pdf="berkeley1732_3" kb="243"/>      <text title="Seventh Dialogue" pdf="berkeley1732_4" kb="182"/>    </text>  </author>    <author id="boyle" name="Robert Boyle" shortname="Boyle" dates="1627-1691">    <text title="The Origin of Forms and Qualities, Part 1" year="1666" pdf="boyle1666" kb="290">      <text epub="boyle1666" kb="863"/>      <text mobi="boyle1666" kb="1,688"/>      <text title="The Preliminaries" pdf="boyle1666_1" kb="211"/>      <text title="The Remainder" pdf="boyle1666_2" kb="138"/>    </text>    <text title="The Grounds for and Excellence of the Corpuscular or Mechanical Philosophy" year="1674" pdf="boyle1674a" kb="122"/>      <text epub="boyle1674a" kb="816"/>      <text mobi="boyle1674a" kb="1,479"/>    <text title="The Excellence of Theology, compared with Natural Philosophy" year="1674" pdf="boyle1674b" kb="356">      <text epub="boyle1674b" kb="887"/>      <text mobi="boyle1674b" kb="1,843"/>      <text title="Part 1" pdf="boyle1674b_1" kb="215"/>      <text title="Part 2" pdf="boyle1674b_2" kb="208"/>    </text>  </author>  
+      <author id="burke" name="Edmund Burke" shortname="Burke" dates="1729-1797">    <text title="Reflections on the Revolution in France" year="1790" pdf="burke1790" kb="610">      
+            <text epub="burke1790" kb="943"/>      
+            <text mobi="burke1790" kb="2,158"/>      
+            <text title="Part 1" pdf="burke1790part1" kb="246"/>      
+            <text title="Part 2" pdf="burke1790part2" kb="249"/>      
+            <text title="Part 3" pdf="burke1790part3" kb="247"/>
+            <text title="First quarter of Part 1 – 48 minutes" audio="Burke_1_Master.mp3" />  
+            <text title="Second quarter of Part 1 – 37 minutes" audio="Burke_2_Master.mp3" />  
+            <text title="Third quarter of Part 1 – 49 minutes" audio="Burke_3_Master.mp3" />  
+            <text title="Fourth quarter of Part 1 – 30 minutes" audio="Burke_4_Master.mp3" />  
+            <text title="First one-third of Part 2 – 40 minutes" audio="Burke_5_Master.mp3" />  
+            <text title="Second one-third of Part 2 – 37 minutes" audio="Burke_6_Master.mp3" />  
+            <text title="Third one-third of Part 2 – 52 minutes" audio="Burke_7_Master.mp3" />  
+            <text title="First one-third of Part 3 – 39 minutes" audio="Burke_8_Master.mp3" />  
+            <text title="Second one-third of Part 3 – 37 minutes" audio="Burke_9_Master.mp3" />  
+            <text title="Third one-third of Part 3 – 60 minutes" audio="Burke_10_Master.mp3" />  
+
+      </text>  
+</author>     <author id="butler" name="Joseph Butler" shortname="Butler" dates="1692-1752">    <text title="Exchange of Letters with Samuel Clarke" year="1713-4" pdf="clarke1713" kb="120"/> <text epub="clarke1713" kb="725"/>      <text mobi="clarke1713" kb="1,306"/>    <text title="Preface and Five Sermons from Fifteen Sermons" year="1726" pdf="butler1726" kb="241">      <text epub="butler1726" kb="907"/>      <text mobi="butler1726" kb="1,918"/>      <text title="Preface and First Sermon" pdf="butler1726_1" kb="123"/>      <text title="Second and Third Sermons" pdf="butler1726_2" kb="96"/>      <text title="Eleventh and Twelfth Sermons" pdf="butler1726_3" kb="121"/>    </text>    <!-- <text title="Three Episodes from the Analogy of Religion" year="1736" pdf="butler1736" kb="141">      <text title="Moral Discipline and Improvement" pdf="butler1736_1" kb="103"/>      <text title="Personal Identity" pdf="butler1736_2" kb="63"/>      <text title="The Nature of Virtue" pdf="butler1736_3" kb="69"/>    </text> -->  </author>   <author id="clarke" name="Samuel Clarke" shortname="Clarke" dates="1675-1729">    <text title="Demonstration of the Being and Attributes of God" year="1704" pdf="clarke1704" kb="309"/>      <text epub="clarke1704" kb="775"/>      <text mobi="clarke1704" kb="1,550"/>    <text title="Exchange of Letters with Joseph Butler" year="1713-4" pdf="clarke1713" kb="120"/>
+<text epub="clarke1713" kb="725"/>
+<text mobi="clarke1713" kb="1,306"/>
+<text title="Exchange of Papers with Leibniz" year="1715-6" pdf="leibniz1715" kb="383">
+<text epub="leibniz1715" kb="964"/>
+<text mobi="leibniz1715" kb="2,047"/>
+<text title="Exchanges 1-4" pdf="leibniz1715_1" kb="210"/>
+<text title="Exchanges 5-6" pdf="leibniz1715_2" kb="233"/>
+</text>
+</author>
+<author id="condorcet" name="Nicolas de Condorcet" shortname="Condorcet" dates="1743-1794">    <text title="Sketch for an Historical Picture of the Advances of the Human Mind" year="1795" pdf="condorcet1795" kb="601">
+
+    <text epub="condorcet1795" kb="801"/>
+
+    <text mobi="condorcet1795" kb="1,894"/>
+
+      <text title="Chapters 1-3" pdf="condorcet1795_1" kb="291"/>
+
+      <text title="Chapters 1-3 – 1 Hour 19 minutes" audio="Nicolas_Chapter_1-3.mp3" />
+
+      <text title="Chapters 4-8" pdf="condorcet1795_2" kb="171"/>
+
+       <text title="Chapters 4-6 – 1 Hour 43 minutes" audio="Nicolas_Chapter_4-6.mp3" />      <text title="Chapters 7-8 - 1 Hour 15 minutes" audio="Nicolas_Chapter_7-8.mp3" />      <text title="Chapters 9-10" pdf="condorcet1795_3" kb="271"/>      <text title="Chapters 9 – 1 Hour 25 minutes" audio="Nicolas_Chapter_9.mp3" />      <text title="Chapters 10 – 1 Hour 01 minutes" audio="Nicolas_Chapter_10.mp3" />    </text>  </author>    <author id="constant" name="Benjamin Constant" shortname="Constant" dates="1767-1830">
+
+       <text epub="constant1819" kb="905"/>
+
+       <text mobi="constant1819" kb="1,562"/>
+
+       <text title="The Liberty of the Ancients Compared with that of the Moderns" year="1819" pdf="constant1819" kb="116"/>  </author>
+
+       <author id="conway" name="Anne Conway" shortname="Conway" dates="1631-1679">
+
+            <text title="The Principles of the Most Ancient and Modern Philosophy" year="1692" pdf="conway1692" kb="293">
+             <text epub="conway1692" kb="221"/>
+             <text mobi="conway1692" kb="1,108"/>
+             <text title="Chapters 1-6" pdf="conway1692_1" kb="173"/>
+
+             <text title="Chapters 1-3 – 29 minutes" audio="conway_chapters_1-3_master.mp3" />
+
+             <text title="Chapters 4-5 – 20 minutes" audio="conway_chapters_4-5_master.mp3" />
+
+             <text title="Chapters 6 – 41 minutes" audio="conway_chapter_6_Master.mp3" />
+
+             <text title="Chapters 7-9" pdf="conway1692_2" kb="170"/>
+
+             <text title="Chapters 7 – 48 minutes" audio="conway_chapter_7_master.mp3" />
+
+             <text title="Chapters 8 – 22 minutes" audio="conway_chapter_8_master.mp3" />
+
+            </text>
+
+      </author>
+      
+      <author id="descartes" name="René Descartes" shortname="Descartes" dates="1596-1650">
+            <text title="Selected Correspondence" year="1619-1650" pdf="descartes1619" kb="1,225">
+                  <text epub="descartes1619" kb="1,428" />
+                  <text mobi="descartes1619" kb="3,595" />
+                  <text title="Letters written in 1619-37" pdf="descartes1619_1" kb="418"/>
+                  <text title="Letters written in 1638-40" pdf="descartes1619_2" kb="428"/>
+                  <text title="Letters written in 1641-44" pdf="descartes1619_3" kb="404"/>
+                  <text title="Letters written in 1645-50" pdf="descartes1619_4" kb="413"/>
+                  <text title="Brief Notes on the Individuals Mentioned" pdf="descartes1619_5" kb="46"/>
+            </text>
+            <text title="Discourse on the Method" year="1637" pdf="descartes1637" kb="174"/>
+                  <text epub="descartes1637" kb="966" class="epub_descartes1637"/>
+                  <text mobi="descartes1637" kb="1,910" class="mobi_descartes1637"/>
+                  <text title="Meditations on First Philosophy" year="1641" pdf="descartes1641" kb="193"> <text epub="descartes1641" kb="969"/>
+                  <text mobi="descartes1641" kb="1,921"/>
+                  <text title="Meditations 1 and 2" pdf="descartes1641_1" kb="81"/>
+                  <text title="Meditations 1 and 2 – 32 minutes" audio="Descartes_Meditations_1_and_2_Master.mp3" />
+                  <text title="Meditations 3 and 4" pdf="descartes1641_2" kb="107"/>
+                  <text title="Meditation 3 – 35 minutes" audio="Descartes_Meditation_3_Master.mp3" />
+                  <text title="Meditation 4 – 21 minutes" audio="Descartes_Meditation_4_Master.mp3" />    <text title="Meditations 5 and 6" pdf="descartes1641_3" kb="91"/>
+                  <text title="Meditations 5 and 6 – 49 minutes" audio="Descartes_Meditations_5_and_6_Master.mp3" />
+            </text>
+            <text title="Objections to the Meditations, and Descartes' Replies" year="1642" pdf="descartes1642" kb="813">
+                  <text epub="descartes1642" kb="1,133"  class="epub_descartes1642"/>
+                  <text mobi="descartes1642" kb="2,759"  class="mobi_descartes1642"/>
+                  <text title="First and Second Sets" pdf="descartes1642_1" kb="249"/>
+                  <text title="Third and Fourth Sets" pdf="descartes1642_2" kb="247"/>
+                  <text title="Fifth Set (Gassendi)" pdf="descartes1642_3" kb="351"/>
+                  <text title="Sixth Set" pdf="descartes1642_4" kb="141"/>
+            </text>
+            <text title="Correspondence with Princess Elisabeth" year="1643-9" pdf="descartes1643" kb="419">
+                  <text epub="descartes1643" kb="1,079"  class="epub_descartes1643"/>
+                  <text mobi="descartes1643" kb="2,291"  class="mobi_descartes1643"/>
+                  <text title="Letters written in 1643-4" pdf="descartes1643_1" kb="132"/>
+                  <text title="Letters written in 1645" pdf="descartes1643_2" kb="205"/>
+                  <text title="Letters written in 1646" pdf="descartes1643_3" kb="139"/>
+                  <text title="Letters written in 1647-9" pdf="descartes1643_4" kb="144"/>
+            </text>
+            <text title="Principles of Philosophy" year="1644" pdf="descartes1644" kb="362">
+                  <text epub="descartes1644" kb="1077" />
+                  <text mobi="descartes1644" kb="2167" />
+                  <text title="Part 1" pdf="descartes1644part1" kb="152"/>
+                  <text title="Part 2" pdf="descartes1644part2" kb="144"/>
+                  <text title="Part 3" pdf="descartes1644part3" kb="122"/>
+                  <text title="Part 4" pdf="descartes1644part4" kb="110"/>
+            </text>
+            <text title="Conversation with Burman" year="1648" pdf="descartes1648" kb="177"/>
+                  <text epub="descartes1648" kb="959"/>
+                  <text mobi="descartes1648" kb="1,918"/>
+                  <text title="Passions of the Soul" year="1649" pdf="descartes1649" kb="339">
+                  <text epub="descartes1649" kb="1,002"/>
+                  <text mobi="descartes1649" kb="2,133"/>
+                  <text title="Part 1 (articles 1-50)" pdf="descartes1649part1" kb="160"/>
+                  <text title="Part 2 (articles 51-148)" pdf="descartes1649part2" kb="205"/>
+                  <text title="Part 3 (articles 149-212)" pdf="descartes1649part3" kb="156"/>
+            </text>
+      </author>
+       	<author id="edwards" name="Jonathan Edwards" shortname="Edwards" dates="1703-1758">
+       <text title="The Freedom of the Will" year="1754" pdf="edwards1754" kb="763">
+       <text epub="edwards1754" kb="1,633"/>
+       <text mobi="edwards1754" kb="3,487"/>
+       	<text title="Part 1" pdf="edwards1754part1" kb="163"/>
+       	<text title="Part 2" pdf="edwards1754part2" kb="291"/>
+       	<text title="Part 3" pdf="edwards1754part3" kb="213"/>
+       	<text title="Part 4" pdf="edwards1754part4" kb="328"/>    </text>
+       	<text title="A Dissertation Concerning the Nature of True Virtue" year="1765" pdf="edwards1765" kb="228"/>
+       	<text epub="edwards1765" kb="1,515"/>
+       <text mobi="edwards1765" kb="2,883"/>
+       </author>
+       	<author id="degrouchy" name="Sophie de Grouchy" shortname="de Grouchy" dates="1764-1822">    <text title="Letters on Sympathy" year="1798" pdf="degrouchy1798" kb="249"/>
+
+       <text epub="degrouchy1798" kb="825"/>
+       <text mobi="degrouchy1798" kb="1,844"/>
+
+       <text title="Letters 1 and 2 – 35 minutes" audio="DeGrouchy_Letters_1-2_Master.mp3" />      <text title="Letter 3 – 26 minutes" audio="DeGrouchy_Letter_3_Master.mp3" />      <text title="Letter 4 – 32 minutes" audio="DeGrouchy_Letter_4_Master.mp3" />      <text title="Letter 5 – 25 minutes" audio="DeGrouchy_Letter_5_Master.mp3" />      <text title="Letters 6 and 7 – 47 minutes" audio="DeGrouchy_Letters_6-7_Master.mp3" />      <text title="Letter 8 – 25 minutes" audio="DeGrouchy_Letter_8_Master.mp3" />  </author>
+
+       <author id="hobbes" name="Thomas Hobbes" shortname="Hobbes" dates="1588-1679">
+
+            <text title="Leviathan" year="1651">
+
+                  <text epub="hobbes1651" kb="1,280" class="epub_hobbes1651"/>
+
+                  <text mobi="hobbes1651" kb="3,171" class="mobi_hobbes1651"/>
+
+                  <text title="Part 1" pdf="hobbes1651part1" kb="401">
+
+                        <text title="Chapters 1-8" pdf="hobbes1651part1_1" kb="220"/>
+
+                        <text title="Introduction and chapters 1-3 – 39 minutes" audio="Hobbes_Leviathan_Part_1_Introduction_and_Chapters_1-3_Master.mp3" />
+
+                        <text title="Chapters 4-5 – 41 minutes" audio="Hobbes_Leviathan_Part_1_Chapters_4-5_Master.mp3" />
+
+                        <text title="Chapters 6-7 – 35 minutes" audio="Hobbes_Leviathan_Part_1_Chapters_6-7_Master.mp3" />
+
+                        <text title="Chapters 8-9 – 31 minutes" audio="Hobbes_Leviathan_Part_1_Chapters_8-9_Master.mp3" />
+
+                        <text title="Chapters 9-16" pdf="hobbes1651part1_2" kb="236"/>
+
+                        <text title="Chapters 10-11 – 37 minutes" audio="Hobbes_Leviathan_Part_1_Chapters_10-11_Master.mp3" />
+
+                        <text title="Chapters 12-13 – 43 minutes" audio="Hobbes_Leviathan_Part_1_Chapters_12-13_Master.mp3" />
+
+                        <text title="Chapters 14-16 – 69 minutes" audio="Hobbes_Leviathan_Part_1_Chapters_14-16_Master.mp3" />
+
+                  </text>
+
+                  <text title="Part 2" pdf="hobbes1651part2" kb="461">
+
+                        <text title="Chapters 17-21" pdf="hobbes1651part2_1" kb="173"/>
+
+                        <text title="Chapters 17-19 – 58 minutes" audio="Hobbes_Leviathan_Part_2_Chapters_17-19_Master.mp3" />
+
+                        <text title="Chapters 20-21 – 42 minutes" audio="Hobbes_Leviathan_Part_2_Chapters_20-21_Master.mp3" />
+
+                        <text title="Chapters 22-25 – 47 minutes" audio="Hobbes_Leviathan_Part_2_Chapters_22-24_Master.mp3" />
+
+                        <text title="Chapters 25-26 – 59 minutes" audio="Hobbes_Leviathan_Part_2_Chapters_25-26_Master.mp3" />
+
+                        <text title="Chapters 27-28 – 52 minutes" audio="Hobbes_Leviathan_Part_2_Chapters_27-28_Master.mp3" />
+
+                        <text title="Chapters 29-30 – 53 minutes" audio="Hobbes_Leviathan_Part_2_Chapters_29-30_Master.mp3" />
+
+                        <text title="Chapter 31 – 25 minutes" audio="Hobbes_Leviathan_Part_2_Chapter_31_Master.mp3" />
+
+                  </text>
+
+                  <text title="Chapters 22-26" pdf="hobbes1651part2_2" kb="181"/>
+
+                  <text title="Part 3" pdf="hobbes1651part3" kb="461">
+
+                  </text>
+
+                  <text title="Part 4 " pdf="hobbes1651part4" kb="230"/>
+
+            </text>
+
+      </author>
+       <author id="hume" name="David Hume" shortname="Hume" dates="1711-1776">
+       <text title="A Treatise of Human Nature" year="1739-40">
+            <text epub="hume1739" kb="1,569"/>
+            <text mobi="hume1739" kb="4,051"/>
+       <text title="Book I: Of the Understanding" pdf="hume1739book1" kb="726">
+       	<text title="Part I" pdf="hume1739book1_1" kb="130"/>
+       	<text title="Part II" pdf="hume1739book1_2" kb="168"/>
+       	<text title="Part III" pdf="hume1739book1_3" kb="304"/>
+       	<text title="Part IV" pdf="hume1739book1_4" kb="306"/>      </text>      <text title="Book II: Of the Passions" pdf="hume1739book2" kb="446">        <text title="Part I" pdf="hume1739book2_1" kb="183"/>        <text title="Part II" pdf="hume1739book2_2" kb="202"/>        <text title="Part III" pdf="hume1739book2_3" kb="176"/>      </text>      <text title="Book III: Of Morals" pdf="hume1740book3" kb="470">        <text title="Part I" pdf="hume1740book3_1" kb="110"/>        <text title="Part II" pdf="hume1740book3_2" kb="296"/>        <text title="Part III" pdf="hume1740book3_3" kb="172"/>      </text>    </text>
+       	<text title="Abstract of the Treatise of Human Nature" year="1740" pdf="hume1740" kb="85" />
+       	<text epub="hume1740" kb="1,159"/>
+       <text mobi="hume1740" kb="2,153"/>
+       	<text title="An Enquiry Concerning Human Understanding" year="1748" pdf="hume1748" kb="439">      <text epub="hume1748" kb="1,274" class="epub_hume1748"/>      <text mobi="hume1748" kb="2,629" class="mobi_hume1748"/>      <text title="Sections 1-5" pdf="hume1748_1" kb="174"/>      <text title="Sections 1-2 – 36 minutes" audio="Hume_Sections_1_and_2_Master.mp3" />      <text title="Sections 3-4 – 34 minutes" audio="Hume_Sections_3_and_4_Master.mp3" />      <text title="Section 5 – 29 minutes" audio="Hume_Section_5_Master.mp3" />      <text title="Sections 6-8" pdf="hume1748_2" kb="169"/>      <text title="Section 6-7 – 35 minutes" audio="Hume_Sections_6_and_7_Master.mp3" />        <text title="Section 8 Part 1 – 24 minutes" audio="Hume_Section_8_Part_1_Master.mp3" />   <text title="Section 8 Part 2 and Section 9 – 24 minutes" audio="Hume_Section_8_Part_2_and_Section_9_Master.mp3" />     <text title="Sections 9-12" pdf="hume1748_3" kb="204"/>
+       <text title="Section 10 – 39 minutes" audio="Hume_Section_10_Master.mp3" />
+       <text title="Section 11 – 34 minutes" audio="Hume_Section_11_Master.mp3" />
+       <text title="Section 12 – 34 minutes" audio="Hume_Section_12_Master.mp3" /></text>
+
+       <text title="An Enquiry Concerning the Principles of Morals" year="1751" pdf="hume1751" kb="414">
+       <text epub="hume1751" kb="1,279"/>
+       <text mobi="hume1751" kb="2,660"/>
+       <text title="Sections 1-3" pdf="hume1751_1" kb="137"/>
+       <text title="Sections 4-6" pdf="hume1751_2" kb="153"/>
+       <text title="Sections 7-9" pdf="hume1751_3" kb="137"/>
+       <text title="Appendices" pdf="hume1751_4" kb="135"/></text>
+
+       <text title="Four Essays" year="1757" pdf="hume1757" kb="189">
+       <text epub="hume1757" kb="1,198"/>
+       <text mobi="hume1757" kb="2,303"/>
+       <text title="Tragedy" pdf="hume1757essay1" kb="73"/>
+       <text title="The Standard of Taste" pdf="hume1757essay2" kb="108"/>
+       <text title="Suicide" pdf="hume1757essay3" kb="74"/>
+       <text title="The Immortality of the Soul" pdf="hume1757essay4" kb="68"/></text>
+
+       <text title="The Natural History of Religion" year="1757" pdf="hume1757_1" kb="166"/>
+   	 <text epub="hume1757_1" kb="1,200"/>
+       <text mobi="hume1757_1" kb="2,293"/>
+       <text title="Dialogues Concerning Natural Religion" year="1779" pdf="hume1779" kb="347">
+       	<text epub="hume1779" kb="1,244" class="epub_hume1779"/>
+       	<text mobi="hume1779" kb="2,484" class="mobi_hume1779"/>
+       	<text title="Sections 1-3" pdf="hume1779_1" kb="150"/>
+       	<text title="Sections 4-8" pdf="hume1779_2" kb="130"/>
+       	<text title="Sections 9-12" pdf="hume1779_3" kb="164"/></text>
+
+       </author>
+       <author id="hutcheson" name="Francis Hutcheson" shortname="Hutcheson" dates="1694-1746">
+            <text title="An Inquiry Concerning Beauty, Order, Harmony, and Design" year="1725" pdf="hutcheson1725a" kb="293">
+            <text epub="hutcheson1725a" kb="633"/>
+            <text mobi="hutcheson1725a" kb="1,336"/>
+            <text title="Sections 1-4" pdf="hutcheson1725a_1" kb="156"/>
+            <text title="Sections 5-8" pdf="hutcheson1725a_2" kb="202"/>    </text>
+            <text title="An Inquiry Concerning Virtue and Morality" year="1725" pdf="hutcheson1725b" kb="375">
+            <text epub="hutcheson1725b" kb="671"/>
+            <text mobi="hutcheson1725b" kb="1,525"/>
+                  <text title="Sections 1-2" pdf="hutcheson1725b_1" kb="157"/>
+                  <text title="Sections 3-5" pdf="hutcheson1725b_2" kb="195"/>
+                  <text title="Sections 6-7" pdf="hutcheson1725b_3" kb="142"/>    </text>  </author>
+                  <author id="kant" name="Immanuel Kant" shortname="Kant" dates="1724-1804">
+                        <text title="The Form and Principles of the Sensible and Intelligible World" year="1770" pdf="kant1770" kb="202"/>
+                        <text epub="kant1770" kb="882"/>
+                        <text mobi="kant1770" kb="1,692"/>
+                        <text title="The Critique of Pure Reason" year="1781 and 1787">
+                              <text title="First Part (to the end of the Analytic)" pdf="kant1781part1" kb="835">
+                                    <text title="Prefaces and Introduction" pdf="kant1781part1_1" kb="219"/>
+                                    <text title="Aesthetic" pdf="kant1781part1_2" kb="121"/>
+                                    <text title="Logic to the end of the Metaphysical Deduction" pdf="kant1781part1_3" kb="136"/>
+                                    <text title="Transcendental Deduction" pdf="kant1781part1_4" kb="219"/>
+                                    <text title="Analytic of Principles, Chapters 1 and 2" pdf="kant1781part1_5" kb="295"/>
+                                    <text title="Analytic of Principles, Chapter 3 and Appendix" pdf="kant1781part1_6" kb="152"/>      </text>
+                                    <text title="Second Part (the Dialectic)" pdf="kant1781part2" kb="861">
+                                          <text title="Introduction and Book 1" pdf="kant1781part2_1" kb="170"/>
+                                          <text title="Book 2, Chapter 1 (Paralogisms)" pdf="kant1781part2_2" kb="218"/>
+                                          <text title="Book 2, Chapter 2 (Antinomies)" pdf="kant1781part2_3" kb="355"/>
+                                          <text title="Book 2, Chapter 3 (Ideal)" pdf="kant1781part2_4" kb="210"/>
+                                          <text title="Appendix" pdf="kant1781part2_5" kb="173"/></text>
+                                    </text>
+                                    <text title="Prolegomena to any Future Metaphysic" year="1783" pdf="kant1783" kb="447">      <text epub="kant1783" kb="1,007"/>
+                                          <text mobi="kant1783" kb="2,102"/>
+                                          <text title="Introduction, Sections 1-13" pdf="kant1783_1" kb="173"/>
+                                          <text title="Sections 14-39" pdf="kant1783_2" kb="150"/>
+                                          <text title="Sections 40-60" pdf="kant1783_3" kb="189"/>
+                                          <text title="Solution and Appendix" pdf="kant1783_4" kb="118"/></text>
+
+                                          <text title="Groundwork for the Metaphysic of Morals" year="1785" pdf="kant1785" kb="321">
+                                                <text epub="kant1785" kb="906" class="epub_kant1785"/>
+                                                <text mobi="kant1785" kb="1,821" class="mobi_kant1785"/>
+                                                <text title="Chapter 1" pdf="kant1785chapter1" kb="118"/>
+                                                <text title="Chapter 2" pdf="kant1785chapter2" kb="191"/>
+                                                <text title="Chapter 3" pdf="kant1785chapter3" kb="113"/>
+                                          </text>
+                                          <text title="Metaphysical Foundations of Natural Science" year="1786" pdf="kant1786" kb="451">
+                                                <text epub="kant1786" kb="975"/>
+                                                <text mobi="kant1786" kb="2,046"/>
+                                                <text title="Chapter 1" pdf="kant1786_1" kb="186"/>
+                                                <text title="Chapter 2" pdf="kant1786_2" kb="213"/>
+                                                <text title="Chapters 3-4" pdf="kant1786_3" kb="173"/>
+                                                </text>
+                                                <text title="Religion Within the Bounds of Bare Reason" year="1793" pdf="kant1793" kb="639">
+                                                      <text epub="kant1793" kb="1,011"/>
+                                                      <text mobi="kant1793" kb="2,318"/>
+                                                      <text title="Essay 1" pdf="kant1793part1" kb="213"/>
+                                                      <text title="Essay 2" pdf="kant1793part2" kb="184"/>
+                                                      <text title="Essay 3" pdf="kant1793part3" kb="241"/>
+                                                      <text title="Essay 4" pdf="kant1793part4" kb="256"/>
+                                                </text>
+                                                <text title="Toward Perpetual Peace" year="1795" pdf="kant1795" kb="219">
+                                                      <text epub="kant1795" kb="877"/>
+                                                      <text mobi="kant1795" kb="1,674"/>
+                                                      <text title="Main Text" pdf="kant1795_1" kb="121"/>
+                                                      <text title="Additions and Appendices" pdf="kant1795_2" kb="159"/>
+                                                </text>
+                                          </author>
+                                          <author id="lamettrie" name="Julien Offray de La Mettrie" shortname="La Mettrie" dates="1709-1751">
+                                                <text title="Man—Machine" year="1748" pdf="lamettrie1748" kb="208"/>
+                                                <text epub="lamettrie1748" kb="1,210"/>
+                                                <text mobi="lamettrie1748" kb="2,475"/>
+                                          </author>
+                                          <author id="leibniz" name="Gottfried Wilhelm Leibniz" shortname="Leibniz" dates="1646-1716">
+                                                <text title="Freedom and Possibility" year="1680" pdf="leibniz1680" kb="63"/>
+                                                <text epub="leibniz1680" kb="872" class="epub_leibniz1680"/>
+                                                <text mobi="leibniz1680" kb="1,599" class="mobi_leibniz1680"/>
+                                                <text title="Meditations on Knowledge, Truth, and Ideas" year="1684" pdf="leibniz1684" kb="60"/>
+                                                <text epub="leibniz1684" kb="879"/>
+                                                <text mobi="leibniz1684" kb="1,619"/>
+                                                <text title="Leibniz's Correspondence with Arnauld" year="1686-7" pdf="leibniz1686a" kb="447">
+                                                      <text epub="leibniz1686a" kb="997"/>
+                                                      <text mobi="leibniz1686a" kb="2,116"/>
+                                                      <text title="Items 1-7" pdf="leibniz1686a_1" kb="191"/>
+                                                      <text title="Items 8-15" pdf="leibniz1686a_2" kb="207"/>
+                                                      <text title="Items 16-20" pdf="leibniz1686a_3" kb="207"/>
+                                                </text>
+                                                <text title="Contingency" year="1686" pdf="leibniz1686b" kb="74"/>
+                                                <text epub="leibniz1686b" kb="867"/>
+                                                <text mobi="leibniz1686b" kb="1,577"/>
+                                                <text title="First Truths" year="1686" pdf="leibniz1686c" kb="72"/>
+                                                <text epub="leibniz1686c" kb="869"/>
+                                                <text mobi="leibniz1686c" kb="1,589"/>
+                                                <text title="Discourse on Metaphysics" year="1686" pdf="leibniz1686d" kb="173"/>
+                                                <text epub="leibniz1686d" kb="911" class="epub_leibniz1686d"/>
+                                                <text mobi="leibniz1686d" kb="1,759" class="mobi_leibniz1686d"/>
+                                                <text title="Discourse 1-13 – 36 minutes" audio="Leibniz_1-13_Master.mp3" />
+                                                <text title="Discourse 14-25 – 39 minutes" audio="Leibniz_14-25_Master.mp3" />
+                                                <text title="Discourse 26-37 – 37 minutes" audio="Leibniz_26-37_Master.mp3" />
+                                                <text title="Real-Life Dialogue on Human Freedom and the Origin of Evil" year="1695" pdf="leibniz1695a" kb="64"/>
+                                                <text epub="leibniz1695a" kb="884"/>
+                                                <text mobi="leibniz1695a" kb="1,644"/>
+                                                <text title="Essay on Dynamics" year="1695" pdf="leibniz1695b" kb="135"/>
+                                                <text epub="leibniz1695b" kb="891"/>
+                                                <text mobi="leibniz1695b" kb="1,684"/>
+                                                <text title="A New System" year="1695" pdf="leibniz1695c" kb="74"/>
+                                                <text epub="leibniz1695c" kb="875"/>
+                                                <text mobi="leibniz1695c" kb="1,609"/>
+                                                <text title="Leibniz's Exchange of Views with Pierre Bayle" year="1697-1702" pdf="leibniz1697a" kb="240">
+                                                <text epub="leibniz1697a" kb="922"/>
+                                                <text mobi="leibniz1697a" kb="1,824"/>
+                                                <text title="Relating to Bayle's Note H" pdf="leibniz1697a_1" kb="124"/>
+                                                <text title="Relating to Bayle's Note L" pdf="leibniz1697a_2" kb="181"/>
+                                                </text>
+                                                <text title="The Ultimate Origin on Things" year="1697" pdf="leibniz1697b" kb="57"/>
+                                                <text epub="leibniz1697b" kb="875"/>
+                                                <text mobi="leibniz1697b" kb="1,609"/>
+                                                <text title="Nature Itself" year="1698" pdf="leibniz1698" kb="94"/>
+                                                <text epub="leibniz1698" kb="878"/>
+                                                <text mobi="leibniz1698" kb="1,624"/>
+                                                <text title="New Essays on Human Understanding" year="1705">
+                                                      <text epub="leibniz1705" kb="1,282" class="epub_leibniz1705"/>
+                                                      <text mobi="leibniz1705" kb="3,331" class="mobi_leibniz1705"/>
+                                                      <text title="Book 1" pdf="leibniz1705book1" kb="200"/>
+                                                      <text title="Book 2" pdf="leibniz1705book2" kb="518">
+                                                      <text title="Chapters i-xix" pdf="leibniz1705book2_1" kb="204"/>
+                                                      <text title="Chapters xx-xxi" pdf="leibniz1705book2_2" kb="214"/>
+                                                      <text title="Chapters xxii-xxxiii" pdf="leibniz1705book2_3" kb="222"/>
+                                                </text>
+                                                      <text title="Book 3" pdf="leibniz1705book3" kb="247"/>
+                                                      <text title="Book 4" pdf="leibniz1705book4" kb="443">
+                                                      <text title="Chapters i-vi" pdf="leibniz1705book4_1" kb="182"/>
+                                                      <text title="Chapters vii-xii" pdf="leibniz1705book4_2" kb="186"/>
+                                                      <text title="Chapters xiii-xxi" pdf="leibniz1705book4_3" kb="189"/>      </text>
+                                                </text>
+                                                <text title="Making the Case for God" year="1710" pdf="leibniz1710" kb="142"/>
+                                                <text epub="leibniz1710" kb="897"/>
+                                                <text mobi="leibniz1710" kb="1,720"/>
+                                                <text title="Principles of Nature and Grace" year="1714" pdf="leibniz1714a" kb="76"/>
+                                                <text epub="leibniz1714a" kb="884"/>
+                                                <text mobi="leibniz1714a" kb="1,640"/>
+                                                <text title="Monadology" year="1714" pdf="leibniz1714b" kb="94"/>
+                                                <text epub="leibniz1714b" kb="880" class="epub_leibniz1714b"/>
+                                                <text mobi="leibniz1714b" kb="1,638" class="mobi_leibniz1714b"/>
+                                                <text title="Leibniz's Exchange of Papers with Clarke" year="1715-6" pdf="leibniz1715" kb="383">
+                                                <text epub="leibniz1715" kb="964"/>
+                                                <text mobi="leibniz1715" kb="2,047"/>
+                                                <text title="Exchanges 1-4" pdf="leibniz1715_1" kb="210"/>
+                                                <text title="Exchanges 5-6" pdf="leibniz1715_2" kb="233"/>
+                                                </text>
+                                          </author>
+                                          <author id="locke" name="John Locke" shortname="Locke" dates="1632-1704">
+                                                <text title="Second Treatise of Government" year="1689" pdf="locke1689a" kb="408">
+                                                      <text epub="locke1689a" kb="1,344"/>
+                                                      <text mobi="locke1689a" kb="2,786"/>
+                                                      <text title="Chapters 1-6" pdf="locke1689a_1" kb="162"/>
+                                                      <text title="Chapters 1-4 – 30 minutes" audio="Locke_Chapters_1-4_Master.mp3" />
+                                                      <text title="Chapter 5 – 29 minutes" audio="Locke_Chapter_5_Master.mp3" />
+                                                      <text title="Chapters 7-13" pdf="locke1689a_2" kb="169"/>
+                                                      <text title="Chapters 6 and 7 – 46 minutes" audio="Locke_Chapters_6_and_7_Master.mp3" />
+                                                      <text title="Chapters 8 and 9 – 31 minutes" audio="Locke_Chapters_8_and_9_Master.mp3" />
+                                                      <text title="Chapters 10-13 – 35 minutes" audio="Locke_Chapters_10-13_Master.mp3" />
+                                                      <text title="Chapters 14-17" pdf="locke1689a_3" kb="177"/>
+                                                      <text title="Chapters 14-16 – 42 minutes" audio="Locke_Chapters_14-16_Master.mp3" />
+                                                      <text title="Chapters 17-19 – 45 minutes" audio="Locke_Chapters_17-19_Master.mp3" />
+                                                </text>
+                                                      <text title="Toleration" year="1689" pdf="locke1689b" kb="169"/>
+                                                      <text epub="locke1689b" kb="1,260"/>
+                                                      <text mobi="locke1689b" kb="2,427"/>
+                                                      <text title="Essay Concerning Human Understanding" year="1690">
+                                                      <text epub="locke1690" kb="1,665" class="epub_locke1690"/>
+                                                      <text mobi="locke1690" kb="4,128"/>
+                                                      <text title="Book 1" pdf="locke1690book1" kb="113"/>
+                                                      <text title="Book 2" pdf="locke1690book2" kb="617">
+                                                      <text title="Chapters i-xii" pdf="locke1690book2_1" kb="172"/>
+                                                      <text title="Chapters xiii-xx" pdf="locke1690book2_2" kb="169"/>
+                                                      <text title="Chapters xxi-xxiv" pdf="locke1690book2_3" kb="221"/>
+                                                      <text title="Chapters xxv-xxxiii" pdf="locke1690book2_4" kb="219"/>
+                                                </text>
+                                                <text title="Book 3" pdf="locke1690book3" kb="274">
+                                                      <text title="Chapters i-vi" pdf="locke1690book3_1" kb="184"/>
+                                                      <text title="Chapters vii-xi" pdf="locke1690book3_2" kb="141"/>
+                                                </text>
+                                                <text title="Book 4" pdf="locke1690book4" kb="464">
+                                                      <text title="Chapters i-v" pdf="locke1690book4_1" kb="181"/>
+                                                      <text title="Chapters vi-xiii" pdf="locke1690book4_2" kb="204"/>
+                                                      <text title="Chapters xiv-xxi" pdf="locke1690book4_3" kb="187"/>
+                                                </text>
+                                          </text>
+                                          <text title="The Conduct of the Understanding" year="1706" pdf="locke1706" kb="216"/>
+                                          <text epub="locke1706" kb="1,276"/>
+                                          <text mobi="locke1706" kb="2,534"/>
+                                    </author>
+                                    <author id="machiavelli" name="Niccolò Machiavelli" shortname="Machiavelli" dates="1469-1527">
+                                          <text title="The Prince" year="1532" pdf="machiavelli1532" kb="315">
+                                          <text epub="machiavelli1532" kb="850"/>
+                                          <text mobi="machiavelli1532" kb="1,677"/>
+                                          <text title="Part 1 (Chapters 1-11)" pdf="machiavelli1532part1" kb="183"/>
+
+                                          <text title="Dedication and Part 1  -  88 minutes" audio="Machiavelli_Dedication_Chapters_1-11.mp3" />
+
+                                          <text title="Part 2 (Chapters 12-26)" pdf="machiavelli1532part2" kb="207"/>
+
+                                          <text title="Part 2, chapters 12-19  - 67 minutes" audio="Machiavelli_Part_2_Chapters_12-19.mp3" />
+
+                                          <text title="Part 2, chapters 20-26  -  40 minutes" audio="Machiavelli_Part_2_Chapters_20-26.mp3" />
+                                          </text>
+                                    </author>
+                                    <author id="malebranche" name="Nicolas Malebranche" shortname="Malebranche" dates="1638-1715">
+                                          <text title="Dialogues on Metaphysics" year="1688" pdf="malebranche1688" kb="827">
+                                                <text epub="malebranche1688" kb="924"/>
+                                                <text mobi="malebranche1688" kb="2,400"/>
+                                                <text title="Dialogues 1-3" pdf="malebranche1688_1" kb="203"/>
+                                                <text title="Dialogues 4-6" pdf="malebranche1688_2" kb="246"/>
+                                                <text title="Dialogues 7-8" pdf="malebranche1688_3" kb="180"/>
+                                                <text title="Dialogues 9-11" pdf="malebranche1688_4" kb="234"/>
+                                                <text title="Dialogues 12-14" pdf="malebranche1688_5" kb="179"/>
+                                          </text>
+                                    </author>
+                                    <author id="mandeville" name="Bernard Mandeville" shortname="Mandeville" dates="1670-1733">
+
+                                          <text title="The Fable of the Bees" pdf="mandeville1732" kb="576">
+                                                <text epub="mandeville1732" kb="878"/>
+                                                <text mobi="mandeville1732" kb="2,100"/>
+                                                <text title="To the end of Remark L" pdf="mandeville1732_1" kb="192"/>
+                                                <text title="Remarks M through Y" pdf="mandeville1732_2" kb="219"/>
+                                                <text title="Essays on charity and society" pdf="mandeville1732_3" kb="226"/>
+                                                <text title="Vindication" pdf="mandeville1732_4" kb="93"/>
+                                          </text>
+                                    </author>
+                                    <author id="damaris" name="Damaris Masham" shortname="Damaris Masham" dates="1659-1708">
+                                          <text title="Discourse concerning the Love of God" year="1696" pdf="masham1696" kb="212">
+                                    <text title="Occasional thoughts regarding a Virtuous or Christian Life, 1705" nyear="1705" year="1705" pdf="masham1705" kb="300">
+                                          
+                                          </text>
+                                    <text third="third" title="There is no portrait of Damaris Masham. Two portraits of her are known to have been commissioned, one by her mother and one by John Locke; but both have disappeared."  pdf="masham1696" kb="212" year="1696"/>
+
+                                    </text>
+
+                              </author>
+                                    <author id="mendelssohn" name="Moses Mendelssohn" shortname="Mendelssohn" dates="1729-1786">
+                                          <text title="Jerusalem: or Religious Power and Judaism" year="1782" pdf="mendelssohn1782" kb="339">
+                                                <text epub="mendelssohn1782" kb="759"/>
+                                                <text mobi="mendelssohn1782" kb="1,600"/>
+                                                <text title="Section I: Religious Power" pdf="mendelssohn1782section1" kb="182"/>
+                                                <text title="Section II: Judaism" pdf="mendelssohn1782section2" kb="228"/>
+                                          </text>
+                                    </author>
+                                    <author id="mill" name="John Stuart Mill" shortname="Mill" dates="1806-1873">
+                                          <text title="Essays" year="1838">
+                                                <text epub="mill1838" kb="828"/>
+                                                <text mobi="mill1838" kb="1,700"/>
+                                                <text title="Essays on Bentham and Coleridge" year="1838" pdf="mill1838" kb="300"/>
+                                                <text title="Essay on Bentham" pdf="mill1838_1" kb="170"/>
+                                                <text title="Essay on Coleridge" pdf="mill1838_2" kb="188"/>
+                                          </text>
+                                          <text title="A System of Logic" year="1843">
+                                                <text epub="mill1843" kb="1,288"/>
+                                                <text mobi="mill1843" kb="3,750"/>
+                                                <text title="Book I" year="1843" pdf="mill1843book1" kb="382"/>
+                                                <text title="Book II" year="1843" pdf="mill1843book2" kb="399"/>
+                                                <text title="Book III" year="1843" pdf="mill1843book3" kb="996">
+                                                      <text title="Chapters 1-12" pdf="mill1843book3_1" kb="544"/>
+                                                      <text title="Chapters 13-25" pdf="mill1843book3_2" kb="572"/>
+                                                </text>
+                                                <text title="Book IV" year="1843" pdf="mill1843book4" kb="298"/>
+                                          </text>
+                                          <text title="Liberty" year="1859" pdf="mill1859" kb="400">
+                                                <text epub="mill1859" kb="846"/>
+                                                <text mobi="mill1859" kb="1,700"/>
+                                                <text title="Chapters 1-2" pdf="mill1859_1" kb="212"/>      <text title="Liberty Chapter 1 – 36 minutes" audio="Mill_Liberty_Chapter_1_Master.mp3" />
+                                                <text title="Liberty Chapter 2 Part 1 – 41 minutes" audio="Mill_Liberty_Chapter_2_Part_1_Master.mp3" />
+                                                <text title="Liberty Chapter 2 Part 2 – 48 minutes" audio="Mill_Liberty_Chapter_2_Part_2_Master.mp3" />
+                                                <text title="Chapters 3-5" pdf="mill1859_2" kb="241"/> <text title="Liberty Chapter 3 – 51 minutes" audio="Mill_Liberty_Chapter_3_Master.mp3" />
+                                                <text title="Liberty Chapter 4 – 45 minutes" audio="Mill_Liberty_Chapter_4_Master.mp3" />
+                                                <text title="Liberty Chapter 5 – 51 minutes" audio="Mill_Liberty_Chapter_5_Master.mp3" />
+                                          </text>
+                                          <text title="Utilitarianism" year="1863" pdf="mill1863" kb="250">
+                                                <text epub="mill1863" kb="783"/>
+                                                <text mobi="mill1863" kb="1,508"/>
+                                                <text title="Chapters 1-3" pdf="mill1863_1" kb="160"/>      <text title="Chapters 4-5" pdf="mill1863_2" kb="160"/>
+                                          </text>
+                                          <text title="The Subjection of Women" year="1869" pdf="mill1869" kb="340">
+                                                <text epub="mill1869" kb="812"/>
+                                                <text mobi="mill1869" kb="1,628"/>
+                                                <text title="Chapter 1" pdf="mill1869chapter1" kb="126"/>      <text title="Chapter 2" pdf="mill1869chapter2" kb="107"/>
+                                                <text title="Chapter 3" pdf="mill1869chapter3" kb="138"/>      <text title="Chapter 4" pdf="mill1869chapter4" kb="122"/>
+                                          </text>
+                                          <text title="Three Essays on Religion" year="1873">
+                                                <text epub="mill1873" kb="871"/>
+                                                <text mobi="mill1873" kb="1,880"/>
+                                                <text title="Helen Taylor's Introduction to the Essays" pdf="mill1873a" kb="54"/>
+                                                <text title="Nature" year="1843" pdf="mill1873b" kb="165"/>
+                                                <text title="The Usefulness of Religion" pdf="mill1873c" kb="149"/>
+                                                <text title="Theism" pdf="mill1873d" kb="270">
+                                                      <text title="Parts 1-2" pdf="mill1873d_1" kb="177"/>        <text title="Parts 3-5" pdf="mill1873d_2" kb="152"/>
+                                                </text>
+                                          </text>
+                                          <text title="Autobiography" year="1873" pdf="mill1873e" kb="564">
+                                                <text epub="mill1873e" kb="899"/>
+                                                <text mobi="mill1873e" kb="2,017"/>
+                                                <text title="Parts 1-5" pdf="mill1873e_1" kb="356"/>      <text title="Parts 6-7" pdf="mill1873e_2" kb="287"/>
+                                          </text>
+                                          </author>
+                                    <author id="montaigne" name="Michel de Montaigne" shortname="Montaigne" dates="1533-1592">
+
+                                                <text title="Essays, Book I" year="1580" pdf="montaigne1580book1" kb="632">
+
+                                                <text epub="montaigne1580book1" kb="1,470"/>
+                                                <text mobi="montaigne1580book1" kb="3,205"/>
+                                                <text title="Essays 1-23" pdf="montaigne1580book1_1" kb="266"/>
+                                                <text title="Essays 23-30" pdf="montaigne1580book1_2" kb="241"/>
+                                                <text title="Essays 31-57" pdf="montaigne1580book1_3" kb="254"/>
+                                          </text>
+                                          <text title="Essays, Book II" year="1580" pdf="montaigne1580book2" kb="663">
+                                                <text epub="montaigne1580book2" kb="1,455"/>
+                                                <text mobi="montaigne1580book2" kb="3,172"/>
+                                                <text title="Essays 1-10" pdf="montaigne1580book2_1" kb="241"/>
+                                                <text title="Essays 11-23" pdf="montaigne1580book2_2" kb="267"/>
+                                                <text title="Essays 24-37" pdf="montaigne1580book2_3" kb="263"/>
+                                          </text>
+                                          <text title="Essays, Book III" year="1588" pdf="montaigne1588book3" kb="892">
+
+                                                <text epub="montaigne1588book3" kb="1,530"/>
+                                                <text mobi="montaigne1588book3" kb="3,584"/>
+
+                                                <text title="Essays 1-6" pdf="montaigne1588book3_1" kb="373"/>
+                                                <text title="Essays 7-10" pdf="montaigne1588book3_2" kb="328"/>
+                                                <text title="Essays 11-13" pdf="montaigne1588book3_3" kb="311"/>
+                                          </text>
+                                    </author>
+                                    <author id="newton" name="Isaac Newton" shortname="Newton" dates="1642-1727">
+                                                <text title="Descartes, Space and Body" year="1666" pdf="newton1666" kb="159"/>
+                                                <text epub="newton1666" kb="1,089"/>
+                                                <text mobi="newton1666" kb="2,035"/>
+                                                <text title="A New Theory of Light and Colours" year="1671" pdf="newton1671" kb="87"/>
+                                                <text epub="newton1671" kb="1,069"/>
+                                                <text mobi="newton1671" kb="1,935"/>
+                                    </author>
+                                          <author id="paley" name="William Paley" shortname="Paley" dates="1743-1805">
+                                                <text title="Natural Theology" year="1802" pdf="paley1802" kb="478">
+                                                      <text epub="paley1802" kb="978"/>
+                                                      <text mobi="paley1802" kb="2,192"/>
+                                                      <text title="Chapters 1-10" pdf="paley1802_1" kb="196"/>
+                                                      <text title="Chapters 11-24" pdf="paley1802_2" kb="196"/>
+                                                      <text title="Chapters 25-27" pdf="paley1802_3" kb="201"/>
+                                                </text>
+                                          </author>
+                                          <author id="pascal" name="Blaise Pascal" shortname="Pascal" dates="1623-1662">
+                                                <text title="Pensées" year="1660" pdf="pascal1660" kb="731">
+                                                      <text title="Sections 1-4" pdf="pascal1660_1" kb="289"/>
+                                                      <text title="Sections 5-9" pdf="pascal1660_2" kb="313"/>
+                                                      <text title="Sections 10-14" pdf="pascal1660_3" kb="201"/>
+                                                </text>
+                                          </author>
+                                          
+                                          <author id="price" name="Richard Price" shortname="Price" dates="1723-1791">
+                                                <text title="A Review of the Principle Questions in Morals" year="1758" pdf="price1758" kb="669">
+                                                      <text epub="price1758" kb="1,003"/>
+                                                      <text mobi="price1758" kb="2,263"/>
+                                                      <text title="Chapters 1-2" pdf="price1758_1" kb="227"/>
+                                                      <text title="Chapters 3-6" pdf="price1758_2" kb="210"/>
+                                                      <text title="Chapters 7-8" pdf="price1758_3" kb="211"/>
+                                                      <text title="Chapters 9-10" pdf="price1758_4" kb="210"/>
+                                                </text>
+                                          </author>
+                                          <author id="reid" name="Thomas Reid" shortname="Reid" dates="1710-1796">
+                                                <text title="An Inquiry into the Human Mind" year="1764" pdf="reid1764" kb="623">
+                                                      <text epub="reid1764" kb="433"/>
+                                                      <text mobi="reid1764" kb="1,414"/>
+                                                      <text title="Chapters 1-5" pdf="reid1764_1" kb="300"/>
+                                                      <text title="Chapter 6, sections 1-16" pdf="reid1764_2" kb="270"/>
+                                                      <text title="Chapter 6, sections 17-24" pdf="reid1764_3" kb="194"/>
+                                                      <text title="Chapter 7" pdf="reid1764_4" kb="114"/>
+                                                </text>
+                                                <text title="Essays on the Intellectual Powers of Man" year="1785">
+                                                      <text epub="reid1785" kb="718"/>
+                                                      <text mobi="reid1785" kb="2,524"/>
+                                                      <text title="Essay 1: Preliminary" pdf="reid1785essay1" kb="209"/>
+                                                      <text title="Essay 2: The Powers we have by our External Senses" pdf="reid1785essay2" kb="478">
+                                                      <text title="Chapters 1-11" pdf="reid1785essay2_1" kb="273"/>
+                                                      <text title="Chapters 12-22" pdf="reid1785essay2_2" kb="263"/>
+                                                </text>
+                                                <text title="Essay 3: Memory" pdf="reid1785essay3" kb="165"/>
+                                                      <text title="Essay 4: Conception" pdf="reid1785essay4" kb="184"/>
+                                                      <text title="Essay 5: Abstraction" pdf="reid1785essay5" kb="167"/>
+                                                      <text title="Essay 6: Judgment" pdf="reid1785essay6" kb="355">
+                                                      <text title="Chapters 1-4" pdf="reid1785essay6_1" kb="199"/>
+                                                      <text title="Chapters 5-8" pdf="reid1785essay6_2" kb="207"/>
+                                                </text>
+                                                <text title="Essay 7: Reasoning" pdf="reid1785essay7" kb="143"/>
+                                          </text>
+                                          <text title="Essays on the Active Powers of Man" year="1788">
+                                                <text epub="reid1788" kb="592"/>
+                                                <text mobi="reid1788" kb="2,055"/>
+                                                <text title="Essay 1: Active Power in General" pdf="reid1788essay1" kb="182"/>
+                                                <text title="Essay 2: The Will" pdf="reid1788essay2" kb="125"/> <text title="Essay 3: The Principles of Action" pdf="reid1788essay3" kb="350">
+                                                <text title="Part I: Mechanical Principles of Action" pdf="reid1788essay3part1" kb="92"/>
+                                                <text title="Part II: Animal Principles of Action" pdf="reid1788essay3part2" kb="205"/>
+                                                <text title="Part III: Rational Principles of Action" pdf="reid1788essay3part3" kb="160"/>
+                                          </text>
+                                          <text title="Essay 4: The Liberty of Moral Agents" pdf="reid1788essay4" kb="248">
+                                                <text title="Chapters 1-3" pdf="reid1788essay4_1" kb="104"/>
+                                                <text title="Chapters 4-8" pdf="reid1788essay4_2" kb="127"/>
+                                                <text title="Chapters 9-11" pdf="reid1788essay4_3" kb="120"/>
+                                          </text>
+                                          <text title="Essay 5: Morals" pdf="reid1788essay5" kb="283">        <text title="Chapters 1-4" pdf="reid1788essay5_1" kb="131"/>
+                                                <text title="Chapter 5" pdf="reid1788essay5_2" kb="122"/> <text title="Chapters 6-7" pdf="reid1788essay5_3" kb="138"/>
+                                          </text>
+                                    </text>
+                              </author>
+                              <author id="rousseau" name="Jean-Jacques Rousseau" shortname="Rousseau" dates="1712-1778">
+                                    <text title="The Social Contract" year="1762" pdf="rousseau1762" kb="391">
+                                          <text epub="rousseau1762" kb="1,786"/>
+                                          <text mobi="rousseau1762" kb="3,491"/>
+                                          <text title="Book 1" pdf="rousseau1762book1" kb="116"/>
+                                          <text title="Chapters 1 – 40 minutes" audio="Rousseau_book_1_Master.mp3" />
+                                          <text title="Book 2" pdf="rousseau1762book2" kb="144"/>
+                                          <text title="Chapters 2 – 63 minutes" audio="Rousseau_book_2_Master.mp3" />
+                                          <text title="Book 3" pdf="rousseau1762book3" kb="181"/>
+                                          <text title="Chapters 3 – 89 minutes" audio="Rousseau_book_3_Master.mp3" />
+                                          <text title="Book 4" pdf="rousseau1762book4" kb="160"/>
+                                          <text title="Chapters 4 – 63 minutes" audio="Rousseau_book_4_Master.mp3" />
+                                    </text>
+                              </author>
+                              <author id="shaftesbury" name="Anthony Ashley Cooper, third Earl of Shaftesbury" shortname="Shaftesbury" dates="1671-1713">
+                                    <text title="Enthusiasm" year="1708" pdf="shaftesbury1708" kb="125"/>
+                                    <text epub="shaftesbury1708" kb="988"/>
+                                    <text mobi="shaftesbury1708" kb="1,789"/>
+                                    <text title="The Freedom of Wit and Humour" year="1709" pdf="shaftesbury1709a" kb="170">
+                                          <text epub="shaftesbury1709a" kb="1,006"/>
+                                          <text mobi="shaftesbury1709a" kb="1,858"/>
+                                          <text title="Parts I and II" pdf="shaftesbury1709a_1" kb="110"/>
+                                          <text title="Parts III and IV" pdf="shaftesbury1709a_2" kb="111"/>
+                                    </text>
+                                    <text title="The Moralists" year="1709" pdf="shaftesbury1709b" kb="401">
+                                          <text epub="shaftesbury1709b" kb="1,070"/>
+                                          <text mobi="shaftesbury1709b" kb="2,188"/>
+                                          <text title="Part I" pdf="shaftesbury1709bpart1" kb="111"/>
+                                          <text title="Part II" pdf="shaftesbury1709bpart2" kb="222"/>
+                                          <text title="Part III" pdf="shaftesbury1709bpart3" kb="190"/>
+                                    </text>
+                                    <text title="Soliloquy: Advice to an Author" year="1710" pdf="shaftesbury1710" kb="256"/>
+                                          <text epub="shaftesbury1710" kb="1,021"/>
+                                          <text mobi="shaftesbury1710" kb="1,949"/>
+                                    <text title="An Inquiry Concerning Virtue or Merit" year="1711" pdf="shaftesbury1711" kb="271">
+                                          <text epub="shaftesbury1711" kb="1,029"/>
+                                          <text mobi="shaftesbury1711" kb="1,993"/>
+                                          <text title="Book I: What is Virtue?" pdf="shaftesbury1711book1" kb="145"/>
+                                          <text title="Book II: Why be Virtuous?" pdf="shaftesbury1711book2" kb="180"/>
+                                    </text>
+                              </author>
+                              <author id="sidgwick" name="Henry Sidgwick" shortname="Sidgwick" dates="1838-1900">
+                                    <text title="The Methods of Ethics" year="1874" pdf="sidgwick1874" kb="1,105">
+                                          <text epub="sidgwick1874" kb="1,473"/>
+                                          <text mobi="sidgwick1874" kb="3,546"/>
+                                          <text title="Book I" pdf="sidgwick1874book1" kb="299"/>
+                                          <text title="Book II" pdf="sidgwick1874book2" kb="231"/>
+                                          <text title="Book III" pdf="sidgwick1874book3" kb="510"/>
+                                          <text title="Book IV" pdf="sidgwick1874book4" kb="277"/>
+                                    </text>
+                              </author>
+                              <author id="smith" name="Adam Smith" shortname="Smith" dates="1723-1790">
+                                    <text title="The Theory of Moral Sentiments" year="1759" pdf="smith1759" kb="905">
+                                          <text epub="smith1759" kb="1,256"/>
+                                          <text mobi="smith1759" kb="2,879"/>
+                                          <text title="Parts I and II" pdf="smith1759_1" kb="354"/>
+                                          <text title="Parts III and IV" pdf="smith1759_2" kb="276"/>
+                                          <text title="Parts V and VI" pdf="smith1759_3" kb="225"/>
+                                          <text title="Part VII" pdf="smith1759_4" kb="270"/>
+                                    </text>
+                                    <text title="An Inquiry into the Nature and Causes of the Wealth of Nations" year="1776">
+                                          <text epub="smith1776" kb="1,342"/>
+                                          <text mobi="smith1776" kb="3,262"/>
+                                          <text title="Book I" pdf="smith1776_1" kb="442"/>
+                                          <text title="Book II" pdf="smith1776_2" kb="178"/>
+                                          <text title="Books III and IV" pdf="smith1776_34" kb="357"/>
+                                          <text title="Book V" pdf="smith1776_5" kb="280"/>
+                                    </text>
+                              </author>
+                              <author id="spinoza" name="Baruch Spinoza" shortname="Spinoza" dates="1632-1677">
+                                    <text title="Correspondence" year="1661-1676" pdf="spinoza1661" kb="974">
+                                          <text epub="spinoza1661" kb="1,618"/>
+                                          <text mobi="spinoza1661" kb="3,578"/>
+                                          <text title="Letters 1-16 (1661-1663)" pdf="spinoza1661part1" kb="210"/>
+                                          <text title="Letters 17-33 (1664-1665)" pdf="spinoza1661part2" kb="197"/>
+                                          <text title="Letters 34-58 (1666-1674)" pdf="spinoza1661part3" kb="605"/>
+                                          <text title="Letters 59-84 (1675-1676)" pdf="spinoza1661part4" kb="181"/>
+                                    </text>
+                                    <text title="Ethics Demonstrated in Geometrical Order" year="1665" pdf="spinoza1665" kb="625">
+                                          <text epub="spinoza1665" kb="1,313"/>
+                                          <text mobi="spinoza1665" kb="2,968"/>
+                                          <text title="Part 1" pdf="spinoza1665part1" kb="156"/>    <text title="Part 2" pdf="spinoza1665part2" kb="181"/>    <text title="Part 3" pdf="spinoza1665part3" kb="213"/>    <text title="Part 4" pdf="spinoza1665part4" kb="239"/>    <text title="Part 5" pdf="spinoza1665part5" kb="145"/>
+                                    </text>
+                                    <text title="Treatise on Theology and Politics" year="1669" pdf="spinoza1669" kb="755">
+                                          <text epub="spinoza1669" kb="1,397"/>
+                                          <text mobi="spinoza1669" kb="3,216"/>
+                                          <text title="Chapters 1-3" pdf="spinoza1669_1" kb="204"/> <text title="Chapters 4-7" pdf="spinoza1669_2" kb="255"/> <text title="Chapters 8-11" pdf="spinoza1669_3" kb="188"/><text title="Chapters 12-16" pdf="spinoza1669_4" kb="218"/>
+                                          <text title="Chapters 17-20" pdf="spinoza1669_5" kb="215"/>
+                                    </text>
+                                    <text title="Political Treatise" year="1675" pdf="spinoza1675" kb="367"></text>
+                              </author>
+                              <author id="voltaire" name="Voltaire" shortname="Voltaire" dates="1694-1778">
+                                    <text title="Treatise on Tolerance" year="1763" pdf="voltaire1763" kb="277">
+                                          <text epub="voltaire1763" kb="964"/>
+                                          <text mobi="voltaire1763" kb="1,858"/>
+                                          <text title="Chapters 1-11" pdf="voltaire1" kb="170"/>
+                                          <text title="Chapters 12-25" pdf="voltaire2" kb="170"/>
+                                    </text>
+                              </author>
+                              <author id="wollstonecraft" name="Mary Wollstonecraft" shortname="Wollstonecraft" dates="1759-1797">
+                                    <text title="A Vindication of the Rights of Woman" year="1792" pdf="wollstonecraft1792" kb="547">
+                                          <text epub="wollstonecraft1792" kb="1,279"/>
+                                          <text mobi="wollstonecraft1792" kb="2,813"/>
+                                          <text title="Chapters 1-2" pdf="wollstonecraft1792_1" kb="175"/>
+                                          <text title="Dedication and Introductory letter – 23 mins" audio="MW_dedication_and_introduction_Master.mp3" />
+                                          <text title="Chapter 1 – 19 minutes" audio="MW_Chapter_1_Master.mp3" />
+                                          <text title="Chapter 2, pt. 1 – 33 minutes" audio="MW_Chapter_2_first_half_Master.mp3" />
+                                          <text title="Chapter 2, pt. 2 – 27 minutes" audio="MW_Chapter_2_second_half_Master.mp3" />
+                                          <text title="Chapters 3-4" pdf="wollstonecraft1792_2" kb="192"/>
+                                          <text title="Chapter 3, pt. 1 – 20 minutes" audio="MW_Chapter_3_first_part_Master.mp3" />
+                                          <text title="Chapter 3, pt. 2 – 19 minutes" audio="MW_Chapter_3_second_part_Master.mp3" />
+                                          <text title="Chapter 4, pt. 1 – 36 minutes" audio="MW_Chapter_4_first_part_Master.mp3" />
+                                          <text title="Chapter 4, pt. 2 – 32 minutes" audio="MW_Chapter_4_second_part_Master.mp3" />
+                                          <text title="Chapters 5-7" pdf="wollstonecraft1792_3" kb="189"/>
+                                          <text title="Chapter 5, pt. 1 – 34 minutes" audio="MW_Chapter_5_first_part_Master.mp3" />
+                                          <text title="Chapter 5, pt. 2 – 32 minutes" audio="MW_Chapter_5_second_part_Master.mp3" />
+                                          <text title="Chapters 6 and 7 – 30 minutes" audio="MW_Chapters_6_and_7_Master.mp3" />
+                                          <text title="Chapters 8-13" pdf="wollstonecraft1792_4" kb="179"/>
+                                          <text title="Chapters 8-9 – 36 minutes" audio="MW_Chapters_8_and_9_Master.mp3" />
+                                          <text title="Chapters 10 and 11 and 12 – 39 minutes" audio="MW_Chapters_10_and_11_and_12_Master.mp3" />   <text title="Chapter 13 – 26 minutes" audio="MW_Chapter_13_Master.mp3" />
+                                    </text>
+                              </author>
+                        </authors>

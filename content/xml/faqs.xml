@@ -1,0 +1,23 @@
+<faqs>
+  <faq id="bennett">
+    <question>Who is Jonathan Bennett?</question>
+  </faq>
+  <faq id="why">
+    <question>Why Translate the Texts?</question>
+  </faq>
+  <faq id="how">
+    <question>How Have the Texts Been Modified?</question>
+  </faq>
+  <faq id="formats">
+    <question>What Format are the Texts In?</question>
+  </faq>
+  <faq id="rights">
+    <question>How May I Use these Texts?</question>
+  </faq>
+  <faq id="originals">
+    <question>Where Can I Find the Original Texts</question>
+  </faq>
+  <faq id="who">
+    <question>Who Maintains this Site</question>
+  </faq>
+</faqs>
