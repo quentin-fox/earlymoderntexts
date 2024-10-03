@@ -1,0 +1,55 @@
+<html>
+ <head>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
+	<script>
+		$(document).ready(function() {
+		  $('.nav-toggle').click(function(){
+			//get collapse content selector
+			var collapse_content_selector = $(this).attr('href');
+
+			//make the collapse content to be shown or hide
+			var toggle_switch = $(this);
+			$(collapse_content_selector).toggle(function(){
+			  if($(this).css('display')=='none'){
+                                //change the button label to be 'Show'
+				toggle_switch.html('Show');
+			  }else{
+                                //change the button label to be 'Hide'
+				toggle_switch.html('Hide');
+			  }
+			});
+		  });
+
+		});
+		</script>
+		<style>
+		.round-border {
+			border: 1px solid #eee;
+			border: 1px solid rgba(0, 0, 0, 0.05);
+			-webkit-border-radius: 4px;
+			-moz-border-radius: 4px;
+			border-radius: 4px;
+			padding: 10px;
+			margin-bottom: 5px;
+		}
+		</style>
+	</head>
+	<body>
+		<section class="round-border">
+			<div>
+				<button href="#collapse1" class="nav-toggle">Show</button>
+			</div>
+			<div id="collapse1" style="display:none">
+				<p> Sections 1-2 36 minutes</p>
+			    <p>Sections 3-4  34 minutes</p>
+			    <p> Sections 1-2  36 minutes</p>
+			    <p>Sections 3-4  34 minutes</p>
+			    <p> Sections 1-2  36 minutes</p>
+			    <p>Sections 3-4  34 minutes</p>
+			    <p> Sections 1-2  36 minutes</p>
+			    <p>Sections 3-4  34 minutes</p>
+			</div>
+		</section>
+	</body>
+</html>
