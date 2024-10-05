@@ -1,0 +1,304 @@
+/* constants
+ --------------------------------------------------*/
+
+// fonts
+@text: helvetica, arial, sans-serif;
+@title: 'Roboto Condensed', times, serif;
+
+// palette
+@darkgray: #282828;
+@gray: #c0c0c0;
+@lightgray: #e8e8e8;
+@blue: #0d4f8b;
+
+// breakpoints
+@screen-sm: 28em;
+@screen-md: 48em;
+@screen-lg: 58em;
+
+// fixed width sidebar
+@sidebar: 16em;
+
+/* basic setup
+ --------------------------------------------------*/
+
+// universal reset
+// a lot of people seem to hate it, but I like it, and the
+// objections to it seem to me to be silly; so there
+* {
+  font-size: inherit;
+  line-height: inherit;
+  background: transparent;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+}
+
+// essential body setup
+body {
+  font-family: @text;
+  font-size: 1em;
+  line-height: 1.5;
+  color: @darkgray;
+}
+
+.container {
+  font-size: 0.875em;
+  padding: 1em;
+}
+
+/* basic styling of elements
+ --------------------------------------------------*/
+
+ // headers
+h1,
+h2,
+h3 {
+  font-family: @title;
+  line-height: 1;
+  &:not(:first-child) { // I tend to find top margins on the first child unwanted
+    margin-top: 0.75em;
+  }
+  &:not(:last-child) { // ditto bottom margins on the last child
+    margin-bottom: 0.5em;
+  }
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.25em;
+}
+
+// hard rule
+hr {
+  height: 0;
+  border-bottom: 1px solid @gray;
+  margin: 1.5em 0;
+}
+
+// text blocks
+p,
+blockquote {
+  text-align: justify;
+  hyphens: auto; // not widely supported yet, but looking forward to when it is
+  &:not(:last-child) { // I tend to find margins on the last child unwanted
+    margin-bottom: 0.75em;
+  }
+}
+blockquote p:not(:last-child) {
+  margin-bottom: 0.5em;
+}
+blockquote {
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+}
+
+// lists
+ul,  // I use these a lot for tabs and menus and things,
+ol { // so I prefer no list style by default
+  list-style: none;
+}
+
+// inline elements
+img {
+  border: 0;
+  max-width: 100%;
+}
+a {
+  cursor: pointer;
+  color: @blue;
+  text-decoration: none;
+  &:hover:not(.button) { // I sometimes use links as pretend buttons
+    text-decoration: underline; // whereupon I don't want the text underlined
+  }
+}
+small,
+.small { // also a small class for (e.g.) paragraphs is useful
+  font-size: 0.875em; // 14px by default
+}
+
+// forms
+form {
+  display: inline;
+}
+input,
+select {
+  width: 100%;
+  padding: 0.5em;
+  background: #fff;
+  border: 1px solid @gray;
+  transition: border 0.3s ease-in-out;
+  &:focus {
+    border: 1px solid @blue;
+  }
+}
+input {
+  height: 100%;
+}
+select,
+select:focus {
+  margin-bottom: 1em;
+  line-height: 1;
+  border-top: 0;
+}
+
+// examples in the 'how' page
+.examples {
+  display: none;
+  font-size: 0.9375em;
+  padding: 0.5em 1em;
+  border: 1px solid @gray;
+  margin: 0.5em 1em;
+  &.active {
+    display: block;
+  }
+}
+
+/* the shape of the page
+ --------------------------------------------------*/
+
+.header {
+  padding: 0.25em 1em 1em;
+  h1 {
+    margin-top: 0;
+  }
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  background: @blue;
+  margin-bottom: 1em;
+  ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .links li {
+    white-space: nowrap;
+    a {
+      display: inline-block;
+      width: 100%;
+      color: #fff;
+      padding: 0.5em 1em;
+      border: 1px solid transparent;
+      &:hover {
+        background: @darkgray;
+        text-decoration: none;
+      }
+    }
+  }
+  .search li {
+    width: 100%;
+  }
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  .sidebar {
+    h4 {
+      background: @blue;
+      font-weight: normal;
+	  padding: 0.5em 1em;
+	  color: #fff;
+	}
+    img {
+      display: none;
+    }
+  }
+  .content {
+    padding: 1em;
+    border: 1px solid @gray;
+  }
+}
+
+.content {
+  ul { // this is for ordinary lists
+    margin: 0 1.5em 0.75em;
+    li {
+      list-style: disc;
+      margin: 0.75em 0;
+    }
+    ul { // different margins for nested lists
+      margin: 0 1em 0.75em;
+      li {
+        list-style: circle;
+        margin: 0.5em 0;
+      }
+      ul {
+        li {
+          list-style: square;
+          margin: 0.25em 0;
+        }
+      }
+    }
+  }
+}
+
+/* changes for progressively bigger screens
+ --------------------------------------------------*/
+
+// small screens
+@media (min-width: @screen-sm) {
+  .container {
+    font-size: 0.9375em;
+  }
+  .nav {
+    ul {
+      flex-direction: row;
+    }
+  }
+}
+
+// medium screens
+@media (min-width: @screen-md) {
+  .container {
+    margin: 0 auto;
+    max-width: @screen-md;
+  }
+  .nav {
+    flex-direction: row;
+    justify-content: space-between;
+    .links {
+      flex: 1;
+    }
+    .search {
+      flex: 0 0 @sidebar;
+      padding-left: 1em;
+      input,
+      input:focus {
+        border-left: 0;
+      }
+    }
+  }
+  .main {
+    flex-direction: row;
+    .sidebar {
+      order: 2;
+      flex: 0 0 @sidebar;
+      padding-left: 1em;
+      img {
+        display: block;
+        width: 100%;
+      }
+    }
+    .content {
+      order: 1;
+      flex: 1;
+    }
+  }
+}
+
+// large screens
+@media (min-width: @screen-lg) {
+  .container {
+    font-size: 1em;
+    max-width: @screen-lg;
+  }
+}
