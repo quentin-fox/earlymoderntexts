@@ -1,3 +1,8 @@
+name = "earlymoderntexts"
+pages_build_output_dir = "./pages"
+
+
+
 [[r2_buckets]]
 binding = "EMT_ASSETS"
 bucket_name = "earlymoderntexts"
